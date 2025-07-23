@@ -42,7 +42,7 @@ Este painel interativo em Power BI investiga a **participação feminina nos cur
 ## 👩‍💻 Autora
 
 **Victória Araújo**  
-[LinkedIn](https://www.linkedin.com/in/victoriaraujoo)
+[LinkedIn](https://www.linkedin.com/in/maria-victoria-araujo)
 
 > Projeto autoral com fins exploratórios e educacionais.  
 > Os dados representam uma amostra significativa, mas não abrangem todos os cursos ou instituições do país.
